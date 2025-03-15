@@ -4,10 +4,10 @@
 ![](https://github.com/vegetablechicken5437/AR-Rasangan/blob/main/rasangan_demo.gif)
 
 ### 功能特色
-即時手部偵測：利用 Mediapipe 取得手部 landmark 資訊，並依據手部特徵覆蓋旋轉的 Rasengan 特效。  
-即時臉部偵測：透過 Mediapipe 進行臉部偵測，並在臉部區域覆蓋 Naruto 特效。  
-動態特效：Rasengan 特效會依時間持續旋轉，增加視覺動態感。  
-影像處理：利用 OpenCV 處理影像合成、遮罩生成與邊界檢查。  
+* 即時手部偵測：利用 Mediapipe 取得手部 landmark 資訊，並依據手部特徵覆蓋旋轉的 Rasengan 特效。  
+* 即時臉部偵測：透過 Mediapipe 進行臉部偵測，並在臉部區域覆蓋 Naruto 特效。  
+* 動態特效：Rasengan 特效會依時間持續旋轉，增加視覺動態感。  
+* 影像處理：利用 OpenCV 處理影像合成、遮罩生成與邊界檢查。  
 
 ### 安裝與執行
 ```
