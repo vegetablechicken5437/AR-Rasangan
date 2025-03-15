@@ -39,4 +39,3 @@ pip install opencv-python mediapipe numpy
 python main.py
 ```
 執行後會啟動攝影機，按 q 可退出程式。  
-# AR-Rasangan
